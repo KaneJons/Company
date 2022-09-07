@@ -8,7 +8,7 @@ namespace ПЗ_06
     public partial class Меню : Form
     {
         const string БазДанная= "Server=localhost;User Id=postgres;" +
-            "Password=Devilmaycry135790;Database=EnterpriseDirectory;"; 
+            "Password=[Введите свой пароль];Database=EnterpriseDirectory;"; 
         public Меню()
         {
             InitializeComponent();
